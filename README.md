@@ -53,13 +53,18 @@ Buat file lab1_halaman2.html dengan isi sederhana.
 10. Validasi HTML
 Lakukan validasi di W3C Validator.
 📸 Screenshot: 
+<img width="1920" height="1200" alt="Screenshot 2025-09-25 172416" src="https://github.com/user-attachments/assets/aab1e9ee-db74-4309-b968-5b3a8a9b4f10" />
+<img width="1920" height="1200" alt="Screenshot 2025-09-25 173310" src="https://github.com/user-attachments/assets/c1fd7d10-c110-4015-880c-f32ee4c8904d" />
 
 
 11. Upload ke GitHub
 
 Buat repository Lab1Web.
+<img width="1920" height="1200" alt="Screenshot 2025-09-25 164143" src="https://github.com/user-attachments/assets/ca40e04e-3cd2-49ef-9c67-3568e7f240d0" />
 
 Upload file lab1_tag_dasar.html, lab1_halaman2.html, README.md, dan folder img/.
+<img width="1920" height="1200" alt="Screenshot 2025-09-25 164326" src="https://github.com/user-attachments/assets/5735e2c0-3448-4375-8556-0c01530037c2" />
+<img width="1920" height="1200" alt="Screenshot 2025-09-25 164419" src="https://github.com/user-attachments/assets/51ff1ab9-20d3-4fb8-92c4-95e34e1a3928" />
 
 Commit dan kirim URL repo ke e-learning.
 
@@ -106,9 +111,3 @@ HTML adalah dasar dalam pembuatan halaman web.
 Setiap elemen memiliki fungsi penting untuk menampilkan teks, gambar, dan navigasi.
 
 Praktikum ini memberikan pemahaman awal sebelum mempelajari CSS dan JavaScript.
-
-
-
----
-
-Mau aku bikin versi lebih singkat dari README ini biar cocok kalau dosen hanya minta laporan ringkas?
